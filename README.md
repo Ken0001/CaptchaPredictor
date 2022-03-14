@@ -1,9 +1,12 @@
 # CaptchaPredictor
 
 ## Data
+* Collected from https://tixcraft.com/
+* Image size: 120 x 110
+* ![Example](https://imgur.com/EARBiiu)
 
 ## Model
-1. Model(.pb) trained by using [CaptchaTrainer](https://github.com/kerlomz/captcha_trainer.git).
+1. Model (.pb) trained by using [CaptchaTrainer](https://github.com/kerlomz/captcha_trainer.git).
 2. Convert .pd file to tensorflow lite.
 
 ## Usage
