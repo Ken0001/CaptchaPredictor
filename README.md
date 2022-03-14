@@ -3,7 +3,7 @@
 ## Data
 * Collected from https://tixcraft.com/
 * Image size: 120 x 110
-* ![Example](https://imgur.com/EARBiiu)
+* ![Example](https://imgur.com/a/ROTdVE2)
 
 ## Model
 1. Model (.pb) trained by using [CaptchaTrainer](https://github.com/kerlomz/captcha_trainer.git).
