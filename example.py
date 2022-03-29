@@ -1,6 +1,6 @@
 """ 
     Inference with CaptchaPredictor
-    Support image with file, url
+    Support image with file  url
 """
 from predict_captcha import CaptchaPredictor
 
